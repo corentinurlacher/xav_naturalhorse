@@ -13,3 +13,14 @@
 ---
 
 *Remarque : Assurez-vous de tester les nouvelles fonctionnalités dans votre environnement de développement avant de les déployer en production.*
+
+## Features
+
+- **Configurable spawn points:** Define specific locations on the map for each horse breed or type.
+- **Addition of modded or native horses:** Easily integrate new horses, whether modded or natively present in the game.
+- **Dynamic changes with each spawn cycle:** Available horses change with each cycle, offering increased diversity in the game.
+- **Adjustable spawn radius around the player:** Modify the radius within which horses appear around the player. **Note:** Avoid setting a radius that covers the entire map to maintain performance.
+
+---
+
+
